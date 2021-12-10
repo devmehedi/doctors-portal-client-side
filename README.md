@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with Doctor Portal
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://doctors-portal-5dcba.web.app/)
 
 ## Available Scripts
 
